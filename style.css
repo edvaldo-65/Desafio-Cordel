@@ -9,6 +9,8 @@
 body {
     font-family:  cursive;
 }
+
+/* header style */
 header  {
     background-color: #000;
     color: #fff;   
@@ -39,6 +41,18 @@ a:hover {
     }
     header > h1 {
         font-size: 30px;
-    }
-    
+    }    
+}
+
+/* main style */
+
+main article { 
+    padding: 100px 30px ;    
+}
+
+main li {
+    font-size: 1.2em;
+    font-weight: bold;
+    list-style: none;
+    margin-bottom: 10px;
 }
