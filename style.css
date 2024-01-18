@@ -69,6 +69,7 @@ main li {
 article.container-imagem{
     background-attachment: fixed;
     background-position: center center;
+    background-size: cover;
 }
 
 .container-imagem ul {   
@@ -78,11 +79,11 @@ article.container-imagem{
 }
 
 article#primeira-imagem {
-    background-image: url(images/background001.jpg);   
+    background-image: url(images/background001.jpg);
 }
 
 article#segunda-imagem {
-    background-image: url(images/background002.jpg);   
+    background-image: url(images/background002.jpg);
 }
 
 footer {
